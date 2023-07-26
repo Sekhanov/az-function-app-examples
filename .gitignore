@@ -1,0 +1,59 @@
+# Build output
+target/
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
+
+# macOS
+.DS_Store
+
+# Azure Functions
+local.settings.json
+bin/
+obj/
+/.gradle/8.0/checksums/checksums.lock
+/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock
+/.gradle/8.0/dependencies-accessors/gc.properties
+/.gradle/8.0/executionHistory/executionHistory.bin
+/.gradle/8.0/executionHistory/executionHistory.lock
+/.gradle/8.0/fileChanges/last-build.bin
+/.gradle/8.0/fileHashes/fileHashes.bin
+/.gradle/8.0/fileHashes/fileHashes.lock
+/.gradle/8.0/fileHashes/resourceHashesCache.bin
+/.gradle/8.0/gc.properties
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.gradle/vcs-1/gc.properties
+/.gradle/file-system.probe
+/build/tmp/compileJava/previous-compilation-data.bin
+/build/tmp/jar/MANIFEST.MF
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
