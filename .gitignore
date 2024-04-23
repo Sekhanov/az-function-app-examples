@@ -33,7 +33,7 @@ hs_err_pid*
 # macOS
 .DS_Store
 
-# Azure Functions
+# Azure Functions.txt
 local.settings.json
 bin/
 obj/
